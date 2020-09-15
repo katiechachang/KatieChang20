@@ -1,4 +1,4 @@
-a {
+a.title {
     color:white;
     margin-right: 2em;
     padding: 2em;
@@ -9,7 +9,7 @@ a {
     padding:15px;
     text-decoration-line: none;
 }
-a:hover {
+a.title:hover {
         animation-name: link;
         animation-duration: 1s;
         animation-iteration-count: 1;
